@@ -1,0 +1,9 @@
+{
+  "schema": "interleave_v1",
+  "M": 8,
+  "seed": 1337,
+  "steps": 119,
+  "max_batch_size": 3000,
+  "order": "morton",
+  "N": 355783
+}
